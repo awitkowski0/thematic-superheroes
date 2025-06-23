@@ -3,7 +3,7 @@ Thank you for helping make Thematic Superheroes the ultimate superhero Minecraft
 ## How to Contribute
 1. **Fork the Repository**: `github.com/awitkowski0/thematic-superheroes`
 2. **Clone Locally** and create a branch for your changes (e.g., `fix/pehkui-crash` or `qol/suit-bench-ui`).
-3. **Test Changes** with Minecraft 1.20.1 or 1.20.4 and required dependencies:
+3. **Test Changes** with Minecraft 1.20.1 and required dependencies:
    - Fabric API
    - GeckoLib (>=4.7.1.2)
    - Pehkui (>=3.7.11)
@@ -27,7 +27,7 @@ Thank you for helping make Thematic Superheroes the ultimate superhero Minecraft
 ## Getting Help
 - **Bugs or Ideas**: Post in [GitHub Issues](https://github.com/awitkowski0/thematic-superheroes/issues) or our [Discord](https://discord.gg/eajFhJzcnh).
 - **Support**: Join Discord for help with setup, testing, or mod issues.
-- **Core Team**: funalex, BBovard, ReadTheFish (ping us on Discord if needed).
+- **Core Team**: funalex, BBovard, ReadTheFish
 
 ## Credits
-All contributors are credited in patch notes, on Discord, and in future releases. Special thanks to our community and contributors: Bean, BoyWonder, DerpyNarwhal, RobinCosmic, Bardock!
+All contributors are credited in patch notes, on Discord, and in future releases.
