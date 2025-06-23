@@ -2,7 +2,7 @@ Thematic Superheroes License
 
 Copyright (c) 2025 Thematic. All rights reserved.
 
-Permission is hereby granted to view, copy, and modify the source code of Thematic Superheroes solely for the purpose of contributing bug fixes, quality-of-life improvements, or enhancements to this project via the official GitHub repository (https://github.com/[awitkowski0]/thematic-superheroes).
+Permission is hereby granted to view, copy, and modify the source code of Thematic Superheroes solely for the purpose of contributing bug fixes, quality-of-life improvements, or enhancements to this project via the official GitHub repository (https://github.com/awitkowski0/thematic-superheroes).
 
 Restrictions
 
