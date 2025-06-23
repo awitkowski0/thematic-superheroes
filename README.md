@@ -1,6 +1,6 @@
 # Thematic Superheroes
 
-Welcome to **Thematic Superheroes**, a Fabric Minecraft mod that transforms your game into the ultimate superhero playground! Craft iconic suits and wield unique powers as Superman, Batman, Wonder Woman, Red Hood, Invincible, and 50+ other heroes from comics, shows, and movies. Join our vibrant community on our official server or Discord to craft suits, battle, and build epic bases!
+Welcome to **Thematic Superheroes**, a Fabric Minecraft mod that transforms your game into the ultimate superhero playground! Craft iconic suits and wield unique powers as Superman, Batman, Wonder Woman, Red Hood, Invincible, and 50+ other heroes from comics, shows, and movies. Join our community on our official server or Discord!
 
 ## About the Mod
 - **Minecraft Versions**: 1.20.1 (Fabric)
@@ -52,8 +52,8 @@ Thematic Superheroes uses a custom license to protect its unique identity. You m
 
 ## Credits
 - **Developers**:
-  - funalex (Owner, Lead Dev)
-  - BBovard (Co-Dev)
+  - funalex
+  - BBovard
   - ReadTheFish
 - **Contributors**:
   - Bean
@@ -62,4 +62,4 @@ Thematic Superheroes uses a custom license to protect its unique identity. You m
   - RobinCosmic
   - Bardock
 
-For questions, open a GitHub issue or ping us on Discord. Let’s make Minecraft super!
+For questions, open a GitHub issue or ping us on Discord.
