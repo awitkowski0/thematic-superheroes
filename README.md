@@ -34,7 +34,7 @@ Welcome to **Thematic Superheroes**, a Fabric Minecraft mod that transforms your
 We’re thrilled to open-source Thematic Superheroes’ core systems (e.g., Suit Bench, base mechanics) to empower our community! Contribute bug fixes (e.g., Pehkui crashes, ability glitches) or quality-of-life improvements via our GitHub. New heroes will still be developed privately by the core team to maintain reveals.
 
 ### How to Contribute
-1. Fork this repository: `github.com/awitkowski0]/thematic-superheroes`
+1. Fork this repository: `github.com/awitkowski0/thematic-superheroes`
 2. Clone locally and create a branch (e.g., `fix/aquaman-trident`).
 3. Submit a pull request with clear details (see [CONTRIBUTING.md](CONTRIBUTING.md)).
 4. Check [GitHub Issues](https://github.com/awitkowski0/thematic-superheroes/issues) or Discord for priority bugs (e.g., Red Hood’s grapple, power-switching crashes).
